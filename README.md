@@ -1,5 +1,5 @@
 # AesynthNet
-Aeternity Protocol for Synthetic Token Swap
+Aeternity Protocol for Artificial Asset Exchange in the Cryptoeconomic Coherence.
 
 # Application Context
 
