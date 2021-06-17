@@ -1,5 +1,5 @@
 # AesynthNet
-Aeternity Protocol for Artificial Asset Exchange in the Cryptoeconomic Coherence.
+Aeternity Protocol for Artificial Asset Exchange in the Cryptoeconomic Coherence of Money Markets and Monetary Models.
 
 # Application Context
 
