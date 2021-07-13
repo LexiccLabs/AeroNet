@@ -55,7 +55,7 @@ This application is a novel implementation of time locked, mixed oracle powered 
 - Derivative Token Swap
 - Derivative Token Pools
 
-Application Outcomes
+# Application Outcomes
 
 - Tokenization of Synthetic Assets on AE Protocol
 - Execution of Mixed Oracles on AE Protocol
